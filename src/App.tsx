@@ -42,6 +42,8 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
+          <br/>
+          ily my pookie wookie {String.fromCodePoint(0x1F97A)}
           <div className="my-4 text-4xl font-bold"></div>
         </>
       ) : (
